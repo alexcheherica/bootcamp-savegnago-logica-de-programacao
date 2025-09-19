@@ -7,7 +7,7 @@ Oi! Eu sou **Alexchê Hérica (Tchê)**, estudante de Ciências da Computação 
 
 ## 🚀 Meus objetivos
 - Completar toda a trilha do bootcamp  
-- Aprender mais sobre HTML  
+- Aprender mais sobre Lógica de Programação JavaScript  
 - Garantir meu certificado
 
 ## 📁 O que tem aqui 
